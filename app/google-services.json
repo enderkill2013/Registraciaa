@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412138715827",
+    "project_id": "firstregapp-f3045",
+    "storage_bucket": "firstregapp-f3045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412138715827:android:365bd00bfc5ad47110cec6",
+        "android_client_info": {
+          "package_name": "com.example.registraciaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412138715827-cb7jmat0mmh7hf516p5fu55mfhk3ib42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4OE7KqLfSG1NixnJqxtfCQ1Fc_Yj8Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412138715827-cb7jmat0mmh7hf516p5fu55mfhk3ib42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
